@@ -1,0 +1,11 @@
+{
+  "name": "JanaSetu AI",
+  "description": "Multilingual AI-powered Digital Public Good connecting citizen voice to national infrastructure priorities across India.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
